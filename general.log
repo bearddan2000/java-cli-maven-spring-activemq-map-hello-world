@@ -1,0 +1,47 @@
+[2021-04-25 13:48:19 INFO]: install::setup-logging ended
+================
+[2021-04-25 13:48:19 INFO]: install::start-up started
+[2021-04-25 13:48:19 INFO]: install::start-up starting services
+[2021-04-25 13:48:19 INFO]: install::decompress started
+[2021-04-25 13:48:19 INFO]: install::decompress changing directory to mq-srv
+[2021-04-25 13:48:19 INFO]: install::decompress decompress mq-srv/data_dump.tar.gz 
+[2021-04-25 13:48:19 INFO]: install::decompress removing data_dump.tar.gz 
+[2021-04-25 13:48:19 INFO]: install::decompress changing directory back
+[2021-04-25 13:48:19 INFO]: install::decompress ended
+================
+[2021-04-25 13:48:19 INFO]: install::decompress started
+[2021-04-25 13:48:19 INFO]: install::decompress changing directory to mq-srv
+[2021-04-25 13:48:19 INFO]: install::decompress decompress mq-srv/log.tar.gz 
+[2021-04-25 13:48:19 INFO]: install::decompress removing log.tar.gz 
+[2021-04-25 13:48:19 INFO]: install::decompress changing directory back
+[2021-04-25 13:48:19 INFO]: install::decompress ended
+================
+[2021-04-25 13:48:19 INFO]: install::decompress ended
+================
+[2021-04-25 13:50:51 INFO]: install::root-check started
+[2021-04-25 13:50:51 INFO]: install::root-check ended
+================
+[2021-04-25 13:50:51 INFO]: install::docker-check started
+[2021-04-25 13:50:51 INFO]: install::docker-check ended
+================
+[2021-04-25 13:50:51 INFO]: install::docker-compose-check started
+[2021-04-25 13:50:51 INFO]: install::docker-compose-check ended
+================
+[2021-04-25 13:50:51 INFO]: install::tear-down started
+[2021-04-25 13:50:51 INFO]: install::compress started
+[2021-04-25 13:50:51 INFO]: install::compress changing directory to mq-srv
+[2021-04-25 13:50:51 INFO]: install::compress compressing mq-srv/data_dump 
+[2021-04-25 13:50:51 INFO]: install::compress removing data_dump 
+[2021-04-25 13:50:51 INFO]: install::compress changing directory back
+[2021-04-25 13:50:51 INFO]: install::compress ended
+================
+[2021-04-25 13:50:51 INFO]: install::compress started
+[2021-04-25 13:50:51 INFO]: install::compress changing directory to mq-srv
+[2021-04-25 13:50:51 INFO]: install::compress compressing mq-srv/log 
+[2021-04-25 13:50:51 INFO]: install::compress removing log 
+[2021-04-25 13:50:51 INFO]: install::compress changing directory back
+[2021-04-25 13:50:51 INFO]: install::compress ended
+================
+[2021-04-25 13:50:51 INFO]: install::compress starting services
+[2021-04-25 13:50:51 INFO]: install::compress ended
+================
